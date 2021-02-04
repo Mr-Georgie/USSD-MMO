@@ -3,16 +3,22 @@ A USSD Mobile Money Transfer API integrated with Flutterwave and Africastalking.
 
 ##### To run on your local machine if you already have Python installed, run the following code:
 
-* ``` pip install virtualenv ```
+```
+pip install virtualenv
+``` 
 
-* ``` virtualenv env ```
+```
+virtualenv env  
+```
 
-* ``` env/Scripts/activate ```
+```
+env/Scripts/activate 
+```
 
-* ``` pip install -r requirements.txt ```
+```
+pip install -r requirements.txt
+```
 
-* ``` python app.py ```
-
-##### See the API in action here:
-
-https://files.000webhost.com/handler.php?action=download?action=download&path=%2Fpublic_html%2F20210125192448.mp4
+```
+python app.py
+```
